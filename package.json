@@ -1,0 +1,29 @@
+{
+  "name": "candlestick-devextreme-charts-forked",
+  "description": "In this demo, the candle stick series displays variations in stock price throughout the course of a given day. Each point consists of a rectangle (body) whose bottom and topmost values correspond to the opening and closing price of a stock. A vertical line (shadow, wick or tail) displays the high and low price for the stock. If the stock closes higher than its opening price, no color fills its body and if the stock closes lower than its opening price, a color fill is applied.\n",
+  "dependencies": {
+    "rrule": "2.6.6",
+    "react-dom": "16.14.0",
+    "react": "16.14.0",
+    "prop-types": "15.7.2",
+    "preact": "10.5.5",
+    "luxon": "1.25.0",
+    "jszip": "3.5.0",
+    "es6-object-assign": "1.1.0",
+    "devextreme-react": "20.2.3",
+    "devextreme-quill": "0.9.5",
+    "devextreme": "20.2.3",
+    "devexpress-gantt": "2.0.0",
+    "devexpress-diagram": "2.0.0"
+  },
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
